@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanisaRivero
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning html, css, javascript, react
+- 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. danisarivero@gmail.com 
 
